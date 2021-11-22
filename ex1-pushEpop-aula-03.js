@@ -1,6 +1,6 @@
 const paises = ["Brasil", "Urugauai", "Argentina", "Chile", "Venezuela", "Paraguai"];
 const ultimoPais = paises[paises.length - 1];
-paises.push("Bolivia");
+paises.push ("Bolivia");
 console.log(paises);
 
 paises.pop();

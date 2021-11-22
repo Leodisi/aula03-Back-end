@@ -8,7 +8,7 @@ for (let i of palavra ) {
         break;
     }
 }
-if (!encontrado) {
+if (!encontrado ) {
     console.log("Não tem a letra a")
     console.log(encontrado)
 }

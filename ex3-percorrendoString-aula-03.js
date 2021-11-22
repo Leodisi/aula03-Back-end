@@ -2,7 +2,7 @@ let  palavra = "araraquara";
 let contador = 0;
 
 for (let i of palavra) {
-    if (i === "a") {
+    if (i === "a" ) {
         contador ++;
     }
 }
